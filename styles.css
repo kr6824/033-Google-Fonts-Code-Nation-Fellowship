@@ -1,0 +1,14 @@
+.h1{font-family:Helvetica;}
+.bark{font-family: 'Goldman', cursive;}
+.seatgeek{font-family: 'Xanh Mono', monospace;}
+.etsy{font-family: 'Big Shoulders Stencil Text', cursive;}
+.amex{font-family: 'Dancing Script',cursive;}
+.google{font-family: 'Syne Mono', monospace;}
+img{border:6px solid blue;}
+h2:hover {
+    background-color:black;}
+.bark{color: #0080ff;}
+.seatgeek{color:#17d3ff;}
+.etsy{color:#e4a4ee;}
+.amex{color:#ffaa7b;}
+.google{color:#fee975;}
